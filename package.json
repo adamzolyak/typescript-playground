@@ -1,0 +1,21 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "Playground for https://codewithmosh.com/courses/enrolled/1779784.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "dev": "tsc && node ./dist/index.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamzolyak/typescript-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamzolyak/typescript-playground/issues"
+  },
+  "homepage": "https://github.com/adamzolyak/typescript-playground#readme",
+  "devDependencies": {}
+}
